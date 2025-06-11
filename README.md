@@ -1,40 +1,61 @@
-# 💻 Rupam Das
-
-🎓 Computer Science & Engineering Student  
-🚀 Passionate about Software Development, AI/ML, and Open Source  
-📍 India
-
----
-
-## 🔧 Tech Stack
-
-- 💻 Languages: C, C++, Python, JavaScript
-- 🌐 Web: HTML, CSS, React, Node.js
-- 🛠️ Tools: Git, VS Code, Linux, Docker
-- 📊 Interest Areas: Machine Learning, Web Development, Competitive Programming
+### 🖤 Who I Am
+- 🐍 python despile 
+- 🌇 Dusk coder – I don’t burn out, I burn slow and strong  
+- ⚽ Sports lover – physical game sharpens the mental  
+- 😏 Chill with charm, focused on code  
+- 🔥 My brother @Shadow lit the path — I’m here to blaze it further
 
 ---
 
-## 📂 Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/WELCOME-TO--DUSK--RD--PROTOCOL-800080?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-🔹 [Portfolio Website](https://yourportfolio.link) – Personal portfolio built with HTML/CSS/JS  
-🔹 [ML Model Predictor](https://github.com/username/project) – Predictive model using scikit-learn  
-🔹 [Weather App](https://github.com/username/project) – Real-time weather app using API  
+<h1 align="center">RDxCoding</h1>
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+🧠 AIML Student | ⚽ Sports Lover | 🌇 Dusk Coder | 😎 Smooth Talker  
+</p>
 
 ---
 
-## 📫 Connect with Me
+Just a dusk-born coder chasing logic in the twilight.  
+Python is my zone. AI is my path. Learning is the grind.  
+Flirt in the day, code in the dusk — that’s how I roll.
 
-- [Instragram](noturtyperupam.-)
-- [Email](rupumdas301@gmail.com)
+Aspiring techie navigating the world of *Artificial Intelligence & Machine Learning*.  
+By day I’m about sports and smooth energy.  
+By dusk, I grind through logic with discipline and vision.
 
+I believe in learning with intention, growing with discipline, and coding with confidence.
+
+---
+
+### 📚 Currently Learning
+- 🧠 Python: OOP, modules, clean coding practices  
+- 🖥 Systems Programming: C, C++, Java  (Future Learing things)
+- 🌐 Web Fundamentals: HTML, CSS, JS
+
+---
+
+### 🧠 Learning Discipline
+- ⌛ Daily deep dives + hands-on challenges  
+- ⚒ Small builds and concept reinforcement  
+- 🗓 Weekly reflections to track growth
+
+---
+
+### 🎯 Long-Term Vision
+- Become a confident, clean-code AIML dev  
+- Build tools that solve real-world problems  
+- Contribute to open-source AI tech  
+- Keep learning, keep helping, stay humble
+
+---
+
+### 📫 Let’s Connect
+Wanna vibe, build, or brainstorm?  
+📧 Reach me at: *rupumdas301@gmail.com*
+📧 Reach me at Instragram : *noturtyperupam.-*
 
 

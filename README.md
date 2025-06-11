@@ -1,11 +1,4 @@
-### 🖤 Who I Am
-- 🐍 python despile 
-- 🌇 Dusk coder – I don’t burn out, I burn slow and strong  
-- ⚽ Sports lover – physical game sharpens the mental  
-- 😏 Chill with charm, focused on code  
-- 🔥 My brother @Shadow lit the path — I’m here to blaze it further
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/WELCOME-TO--DUSK--RD--PROTOCOL-800080?style=for-the-badge&logo=github&logoColor=white">
@@ -28,6 +21,12 @@ By day I’m about sports and smooth energy.
 By dusk, I grind through logic with discipline and vision.
 
 I believe in learning with intention, growing with discipline, and coding with confidence.
+### 🖤 Who I Am
+- 🐍 python despile 
+- 🌇 Dusk coder – I don’t burn out, I burn slow and strong  
+- ⚽ Sports lover – physical game sharpens the mental  
+- 😏 Chill with charm, focused on code  
+- 🔥 My brother @Shadow lit the path — I’m here to blaze it further
 
 ---
 

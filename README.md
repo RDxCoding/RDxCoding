@@ -71,9 +71,13 @@ I code in *DUSC mode: disciplined, unshaken, and always shining. I believe in **
 ---
 
 ### 🛠 *Current Projects*
+|project|description|
+ |--------|----------|
+| ⏳ DUSK-TIMER |A terminal based timer created using python |
+| 🧮 DUSK_CALCULATION |A calculater using Python |
+| 🎲 DUSK DICE SIMULATER | A dice rolling Game |
 
-Empty Project Section  
-Stay tuned for more coding madness coming soon...
+>Stay tuned for more coding madness coming soon...
 
 ---
 
@@ -85,23 +89,11 @@ Stay tuned for more coding madness coming soon...
 
 ---
 
-### 🛠 *Current Projects*
-
-Empty Project Section  
-Stay tuned for more coding madness coming soon...
-
----
-
 ### 🧾 *GitHub Stats*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RDxcoding&show_icons=true&theme=radical">
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RDxcoding&theme=radical&hide_border=true">
-</p>
-
-
 
 ---
 

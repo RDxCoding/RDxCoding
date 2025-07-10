@@ -97,6 +97,12 @@ I code in *DUSK mode: disciplined, unshaken, and always shining. I believe in **
 
 ---
 
+<p align="center">
+    <img src = "https://github-readme-streak-stats-eight.vercel.app?user=RDxCoding&theme=radical&hide_border=true">
+</p>
+
+---
+
 ### 📦 Repo Info
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RDxcoding/RDxCoding)

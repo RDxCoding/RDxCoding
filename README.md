@@ -3,17 +3,17 @@
   <img src="https://img.shields.io/badge/⚡-POWERED_BY_RDX_PROTOCOL-000000?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-<h1 align="center">🌇✨ RDxCoding – The DUSC Protocol Origin ✨🌇</h1>
+<h1 align="center">🌇✨ RDxCoding – The DUSK Protocol Origin ✨🌇</h1>
 
 <p align="center">
-  💪 <strong>DUSC Coder</strong> — where discipline meets dusk mode 🔥  
+  💪 <strong>DUSK Coder</strong> — where discipline meets dusk mode 🔥  
   ⚽ <strong>Sports-Driven</strong> — physical game sharpens the digital mind 🧠  
   😎 <strong>Flirty Genius</strong> — charm on lock, logic on blast 🔓  
   🌟 <strong>Always Shining</strong> — fair, focused, and future-ready ⚡  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Flirt+in+the+day,+code+in+the+dusk.;Running+on+DUSC+protocol+24%2F7.;Shining+bright+with+clean+code.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Flirt+in+the+day,+code+in+the+dusk.;Running+on+DUSK+protocol+24%2F7.;Shining+bright+with+clean+code.">
 </p>
 
 
@@ -22,11 +22,11 @@
 
 ### 💥 *About Me*
 
-Yo, I’m RDxCoding, a **DUSC Coder* by night and a *sports lover* by day. I live for the grind and the shine. My *DUSC Protocol* keeps me focused, disciplined, and ready to take on any challenge. Whether I'm hitting the gym or hitting up a fresh codebase, I’m always giving it my all.* 
+Yo, I’m RDxCoding, a **DUSK Coder* by night and a *sports lover* by day. I live for the grind and the shine. My *DUSK Protocol* keeps me focused, disciplined, and ready to take on any challenge. Whether I'm hitting the gym or hitting up a fresh codebase, I’m always giving it my all.* 
 
 - 🐍 Python is my weapon of choice  
 - ⚽ Sports? I'm always down for a game that sharpens both mind and body  
-- 😏 Flirty by nature, code by night—you’ll see me in DUSC mode  
+- 😏 Flirty by nature, code by night—you’ll see me in DUSK mode  
 - 🌟 Handsome, fair, and always glowing with good energy, inside and out  
 - 🔥 Brother to the legendary @TheRealShadowX, together we blaze a trail in the tech world
 
@@ -60,9 +60,9 @@ Here’s what I’m currently rocking:
 
 ---
 
-### 🧠 *My Grind: DUSC Mode*
+### 🧠 *My Grind: DUSK Mode*
 
-I code in *DUSC mode: disciplined, unshaken, and always shining. I believe in **consistency over speed, **growth over shortcuts, and **focus over distractions*.
+I code in *DUSK mode: disciplined, unshaken, and always shining. I believe in **consistency over speed, **growth over shortcuts, and **focus over distractions*.
 
 - ⏳ *Discipline* – Code every day, learn every day, stay patient  
 - ⚒ *Building* – Hands-on challenges and mini projects are my daily grind  
@@ -114,7 +114,8 @@ Wanna vibe, chat, or collaborate?
 ---
 
 ---
-
-> "Flirt by day, code by night. I'm RDxCoding, and I'm always shining in DUSC mode."
+<p align="center">
+** "Flirt by day, code by night. I'm RDxCoding, and I'm always shining in DUSK mode." **
+</p>
 
 ---
